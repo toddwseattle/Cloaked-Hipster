@@ -3,7 +3,7 @@ Cloaked-Hipster
 
 Overview
 ---------
-This is the Sample Repository for Assignment 3 in Ashesi Software Engineering 2014 and NUvention Web 2015.  It has been designed so that pieces of it can be cloned and used in your own project, specifically this readme and the [wiki](https://github.com/toddwseattle/Cloaked-Hipster/wiki).  Most of the information is in the wiki.  
+This is a Sample Repository for teaching software entrepreneurship and software engineering.   It has been used at both [Northwestern University](http://www.northwestern.edu) and [Ashesi University](http://www.ashesi.org).  It has been designed so that pieces of it can be cloned and used in your own project, specifically this readme and the [wiki](https://github.com/toddwseattle/Cloaked-Hipster/wiki).  Most of the information is in the wiki.  
 
 Using the Cloaked-Hipster Project
 ---------------------------------
