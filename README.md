@@ -3,7 +3,7 @@ Cloaked-Hipster
 
 Overview
 ---------
-This is a Sample Repository for teaching software entrepreneurship and software engineering.   It has been used at both [Northwestern University](http://www.northwestern.edu) and [Ashesi University](http://www.ashesi.org).  It has been designed so that pieces of it can be cloned and used in your own project, specifically this readme and the [wiki](https://github.com/toddwseattle/Cloaked-Hipster/wiki).  Most of the information is in the wiki.  
+This is a Sample Repository for teaching software entrepreneurship and software engineering.   It has been used at both [Northwestern University](http://www.northwestern.edu) and [Ashesi University](http://www.ashesi.org).  It has been designed so that pieces of it can be cloned and used in your own project, specifically this readme and the [wiki](https://github.com/toddwseattle/Cloaked-Hipster/wiki).  Most of the information is in the wiki.  [See the Ashesi 2014 Software engineering 'chop betta'](https://github.com/ashesi-SE/AppBenders_ChopBetta/) for an example of how it was used well.
 
 Using the Cloaked-Hipster Project
 ---------------------------------
